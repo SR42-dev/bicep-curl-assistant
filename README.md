@@ -1,7 +1,7 @@
 # bicep-curl-assistant-final
 A python script that uses OpenCV and mediapipe to detect full ROM on chest and arm exercises. 
 
-Note : This repository contains code to be presented at the HackerSpace orientation on 18th of April, 2022. A copy of the 'trainer.py' script is available under the repository 'SR42-dev/exercise-detection-mediapipe-approaches'. Ownership transfer to HackerSpace-PESU is pending.
+Note : This repository contains code to be presented at the HackerSpace orientation on 18th of April, 2022. The original copy of the 'trainer.py' script is available under the repository 'SR42-dev/exercise-detection-mediapipe-approaches'. Ownership transfer of this repository to HackerSpace-PESU is pending.
 
 Steps to run the program :
 
